@@ -4,5 +4,5 @@ WORKDIR /usr/share/nginx/html
 
 COPY . .
 
-EXPOSE 8080
+EXPOSE 8081
 
